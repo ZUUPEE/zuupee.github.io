@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/post/react-component-with-dot-notation/</loc>
-<lastmod>2018-04-07T21:34:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/post/python-notes-from-Intro-to-machine-learning/</loc>
-<lastmod>2018-04-14T08:30:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/post/how-this-site-was-made/</loc>
-<lastmod>2018-09-28T08:15:47+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/post/apa-itu-shell/</loc>
-<lastmod>2020-01-25T10:28:47+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/post/cara-memperbarui-fork-repository/</loc>
-<lastmod>2020-01-28T23:30:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/post/welcome-to-jekyll/</loc>
-<lastmod>2020-08-07T19:15:51+05:30</lastmod>
+<loc>http://localhost:4000/post/best-tools-for-developers/</loc>
+<lastmod>2020-08-09T10:30:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about.html</loc>
