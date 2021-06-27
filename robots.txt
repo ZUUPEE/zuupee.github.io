@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Sitemap: https://example.io/sitemap.xml
+Allow: /
+
+# Host
+Host: https://zuupee.github.io
+
+# Sitemaps
+Sitemap: https://zuupee.github.io/sitemap.xml
