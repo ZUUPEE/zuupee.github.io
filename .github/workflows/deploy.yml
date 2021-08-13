@@ -26,10 +26,10 @@ jobs:
         node-version: ${{ matrix.node-version }}
       
 
-    - name: Installing my packages
+    - name: Installing Packages
       run: npm ci
 
-    - name: Build my App  
+    - name: Build App  
       run: npm run build
       env:
         NEXT_PUBLIC_BASE_PATH: /zuupee.github.com
